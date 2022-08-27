@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tipo de Cambio</string>
+    <string name="hint">hint</string>
+    <string name="button">Button</string>
+    <string name="hint1">hint</string>
+    <string name="valor">Valor</string>
+    <string name="no_value_string">No hay valor</string>
+
+</resources>
